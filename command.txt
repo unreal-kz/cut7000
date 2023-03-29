@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/echo --name echo --model cycle_gan --display_id -1 --batch_size 1 --gpu_ids 0 --netG unet_128
